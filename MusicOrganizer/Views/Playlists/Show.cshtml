@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My Artists!</title>
+    <link 
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" 
+      rel="stylesheet" 
+      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" 
+      crossorigin="anonymous">
+      <!-- <link rel="stylesheet" type="text/css" href="/MusicOrganizer/wwwroot/css/styles.css" /> -->
+  </head>
+  <body>
+    @using MusicOrganizer.Models;
+
+    <h3>Here are your Artists in this Playlist:</h3>
+
+    <ol>
+    @foreach (Artist artist in @Model["artists"])
+    {
+      <li><a href='/playlists/@Model["playlist"].Id/artists/@artist.Id'>@artist.Name</a></li>
+    }
+    </ol>
+
+    <p><a href='/playlists/@Model["playlist"].Id/artists/new'>Add a new artist</a></p>
+    <p><a href='/playlists'>Return to playlist list</a></p>
+    <p><a href='/'>Return to Main Page</a></p>
+  </body>
+</html>
