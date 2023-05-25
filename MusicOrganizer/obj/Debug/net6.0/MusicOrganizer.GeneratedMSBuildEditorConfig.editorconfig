@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MusicOrganizer
 build_property.RootNamespace = MusicOrganizer
-build_property.ProjectDir = /Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/
+build_property.ProjectDir = /Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer
+build_property.MSBuildProjectDirectory = /Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/Views/Artists/New.cshtml]
+[/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/Views/Artists/New.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0cy9OZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/Views/Artists/Show.cshtml]
+[/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/Views/Artists/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0cy9TaG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/Views/Home/Index.cshtml]
+[/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/Views/Playlists/Index.cshtml]
+[/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/Views/Playlists/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxheWxpc3RzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/Views/Playlists/New.cshtml]
+[/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/Views/Playlists/New.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxheWxpc3RzL05ldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/Views/Playlists/Show.cshtml]
+[/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/Views/Playlists/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxheWxpc3RzL1Nob3cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/Views/Shared/Footer.cshtml]
+[/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/Views/Shared/Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Zvb3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/Views/Shared/_Layout.cshtml]
+[/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

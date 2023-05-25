@@ -372,6 +372,19 @@
           "build/net5.0/MSTest.TestFramework.targets": {}
         }
       },
+      "MySqlConnector/2.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/MySqlConnector.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MySqlConnector.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "NETStandard.Library/1.6.1": {
         "type": "package",
         "dependencies": {
@@ -1899,6 +1912,9 @@
       "MusicOrganizer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MySqlConnector": "2.2.0"
+        },
         "compile": {
           "bin/placeholder/MusicOrganizer.dll": {}
         },
@@ -2925,6 +2941,33 @@
         "lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml",
         "mstest.testframework.2.2.10.nupkg.sha512",
         "mstest.testframework.nuspec"
+      ]
+    },
+    "MySqlConnector/2.2.0": {
+      "sha512": "RjJlqd22Vtuii7voNV8oyqhekDTmiMUW4legga9bFaJaT+hbyKbwY4/99FZRWkNryVW1BUCZ7GR/N8qhy5155A==",
+      "type": "package",
+      "path": "mysqlconnector/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net461/MySqlConnector.dll",
+        "lib/net461/MySqlConnector.xml",
+        "lib/net471/MySqlConnector.dll",
+        "lib/net471/MySqlConnector.xml",
+        "lib/net6.0/MySqlConnector.dll",
+        "lib/net6.0/MySqlConnector.xml",
+        "lib/net7.0/MySqlConnector.dll",
+        "lib/net7.0/MySqlConnector.xml",
+        "lib/netcoreapp3.1/MySqlConnector.dll",
+        "lib/netcoreapp3.1/MySqlConnector.xml",
+        "lib/netstandard2.0/MySqlConnector.dll",
+        "lib/netstandard2.0/MySqlConnector.xml",
+        "lib/netstandard2.1/MySqlConnector.dll",
+        "lib/netstandard2.1/MySqlConnector.xml",
+        "logo.png",
+        "mysqlconnector.2.2.0.nupkg.sha512",
+        "mysqlconnector.nuspec"
       ]
     },
     "NETStandard.Library/1.6.1": {
@@ -6738,11 +6781,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/qianli/Desktop/CD-Organizer.Solution /MusicOrganizer.Tests/MusicOrganizer.Tests.csproj",
+      "projectUniqueName": "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer.Tests/MusicOrganizer.Tests.csproj",
       "projectName": "MusicOrganizer.Tests",
-      "projectPath": "/Users/qianli/Desktop/CD-Organizer.Solution /MusicOrganizer.Tests/MusicOrganizer.Tests.csproj",
+      "projectPath": "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer.Tests/MusicOrganizer.Tests.csproj",
       "packagesPath": "/Users/qianli/.nuget/packages/",
-      "outputPath": "/Users/qianli/Desktop/CD-Organizer.Solution /MusicOrganizer.Tests/obj/",
+      "outputPath": "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/qianli/.nuget/NuGet/NuGet.Config"
@@ -6757,8 +6800,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/qianli/Desktop/CD-Organizer.Solution /MusicOrganizer/MusicOrganizer.csproj": {
-              "projectPath": "/Users/qianli/Desktop/CD-Organizer.Solution /MusicOrganizer/MusicOrganizer.csproj"
+            "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/MusicOrganizer.csproj": {
+              "projectPath": "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/MusicOrganizer.csproj"
             }
           }
         }

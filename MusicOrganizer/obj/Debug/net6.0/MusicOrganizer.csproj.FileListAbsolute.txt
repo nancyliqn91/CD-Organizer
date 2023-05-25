@@ -45,3 +45,28 @@
 /Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.csproj.CopyComplete
 /Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.genruntimeconfig.cache
 /Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/ref/MusicOrganizer.dll
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/bin/Debug/net6.0/appsettings.json
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/bin/Debug/net6.0/MusicOrganizer.staticwebassets.runtime.json
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/bin/Debug/net6.0/MusicOrganizer
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/bin/Debug/net6.0/MusicOrganizer.deps.json
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/bin/Debug/net6.0/MusicOrganizer.runtimeconfig.json
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/bin/Debug/net6.0/MusicOrganizer.dll
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/bin/Debug/net6.0/MusicOrganizer.pdb
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/bin/Debug/net6.0/MySqlConnector.dll
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.csproj.AssemblyReference.cache
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.AssemblyInfoInputs.cache
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.AssemblyInfo.cs
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.csproj.CoreCompileInputs.cache
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.MvcApplicationPartsAssemblyInfo.cache
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.RazorAssemblyInfo.cache
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.RazorAssemblyInfo.cs
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/staticwebassets.build.json
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/staticwebassets.development.json
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/scopedcss/bundle/MusicOrganizer.styles.css
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.csproj.CopyComplete
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.dll
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/refint/MusicOrganizer.dll
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.pdb
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/MusicOrganizer.genruntimeconfig.cache
+/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/Debug/net6.0/ref/MusicOrganizer.dll

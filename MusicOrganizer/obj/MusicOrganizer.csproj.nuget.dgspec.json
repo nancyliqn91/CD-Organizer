@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/MusicOrganizer.csproj": {}
+    "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/MusicOrganizer.csproj": {}
   },
   "projects": {
-    "/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/MusicOrganizer.csproj": {
+    "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/MusicOrganizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/MusicOrganizer.csproj",
+        "projectUniqueName": "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/MusicOrganizer.csproj",
         "projectName": "MusicOrganizer",
-        "projectPath": "/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/MusicOrganizer.csproj",
+        "projectPath": "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/MusicOrganizer.csproj",
         "packagesPath": "/Users/qianli/.nuget/packages/",
-        "outputPath": "/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/obj/",
+        "outputPath": "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/qianli/.nuget/NuGet/NuGet.Config"

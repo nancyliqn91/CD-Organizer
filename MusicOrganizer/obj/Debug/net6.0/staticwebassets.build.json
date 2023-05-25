@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YkmySsOnojR7ggJUJxT0+DKJrgDuOqcVUVBzcRCryCk=",
+  "Hash": "2D00PiYBFapj/r0J5dbuPx4AM+vn1mPP+Ji8+1LQqsE=",
   "Source": "MusicOrganizer",
   "BasePath": "_content/MusicOrganizer",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MusicOrganizer/wwwroot",
       "Source": "MusicOrganizer",
-      "ContentRoot": "/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/wwwroot/",
+      "ContentRoot": "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/wwwroot/",
       "BasePath": "_content/MusicOrganizer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/wwwroot/css/styles.css",
+      "Identity": "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/wwwroot/css/styles.css",
       "SourceId": "MusicOrganizer",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/qianli/Desktop/CD-Organizer-sql.Solution /MusicOrganizer/wwwroot/",
+      "ContentRoot": "/Users/qianli/Desktop/projects/week10 one-many/CD-Organizer-sql.Solution /MusicOrganizer/wwwroot/",
       "BasePath": "_content/MusicOrganizer",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
