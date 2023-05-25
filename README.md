@@ -1,6 +1,6 @@
 # Music Organizer
 
-#### By _Qian Li_ _Eusebie Siebenberg_ _Gareth Grindeland_😊
+#### By _Qian Li_ _Eusebie Siebenberg_ _Gareth Grindeland_ 😊
 
 #### This is our c# project which demonstrates uses of TDD workflow. 
 
